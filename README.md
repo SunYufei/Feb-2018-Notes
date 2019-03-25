@@ -1,7 +1,14 @@
-# CTF Blog
+# Feb 2018 Notes
 
 > 由于不再从事安全方面的学习，此repo停止更新
 
+# 2019年3月25日 声明
+
+本文遵循 [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh) 协议，程序代码遵循 [MIT](LICENSE) 协议
+
+允许参考本文中的解题思路、算法笔记等内容
+
+### **禁止**参加**OUC研究生复试**考生**复制**本文，**一经发现，后果自负**
 
 <!-- # 2019年3月18日 声明
 
